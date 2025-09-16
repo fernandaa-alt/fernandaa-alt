@@ -9,7 +9,7 @@
 ```
 
 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧  
-<img src="images/haha-me.jpg" alt="tired anime girl programming" min-width="350px" width="350px" width="350px" align="right">
+<img src="images/haha-me.jpg" alt="tired anime girl programming" min-width="300px" width="300px" width="300px" align="right">
 <div id="user-content-toc" align="left">
   <ul style="list-style: none;">
     <summary>
