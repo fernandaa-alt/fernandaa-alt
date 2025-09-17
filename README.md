@@ -17,7 +17,7 @@
     </summary>
   </ul>
 </div>
- I’m currently studying Software Development at FIAP, just starting my journey into the programming world. I’m passionate about building creative projects and constantly learning more about technology. <br>
+ I’m currently studying Software Development at FIAP, just starting my journey into the programming world. I’m passionate about building creative projects and constantly learning more about technology. <br><br>
  ─────────────────────── ✦ ─────────────────────── <br>
  
 - 📍 Brazil, São Paulo - SP <br>
