@@ -56,6 +56,12 @@
 🔗 LinkedIn: [Fernanda Alt](https://www.linkedin.com/in/fernanda-alt-a99aa529b) <br>
 💚 [My Site - Under Construction]() <br>
 
+<div>
+  <img src="images/fursona-silly.png" width="400" style="vertical-align: middle;">
+  <span style="vertical-align: middle; margin-left: 15px;"><b>&lt;--- My Fursona</b></span>
+</div>
+<br><br>
+
 ```
    ╔═══════════════╗
    ║  THE END...   ║
