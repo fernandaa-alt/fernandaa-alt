@@ -9,7 +9,7 @@
 ```
 
 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧  
-<img src="images/fursona-silly.png" alt="User's fursona" min-width="400px" width="400px" width="400px" align="right">
+<img src="images/fursona-silly.png" alt="User's fursona" min-width="350px" width="350px" width="350px" align="right">
 <div id="user-content-toc" align="left">
   <ul style="list-style: none;">
     <summary>
