@@ -18,7 +18,7 @@
   </ul>
 </div>
  I’m currently studying Software Development at FIAP, just starting my journey into the programming world. I’m passionate about building creative projects and constantly learning more about technology. <br>
- ──────────────────────── ✦ ──────────────────────── <br>
+ ─────────────────────── ✦ ─────────────────────── <br>
  
 - 📍 Brazil, São Paulo - SP <br>
 - ⚡ Curious about web development and building cool websites <br>
@@ -26,7 +26,7 @@
 - 🎮 Planning to start learning game development and create fun projects <br>
 - ⭐ Curiosity: I love making digital art! <br>
 
- ──────────────────────── ✦ ────────────────────────
+ ─────────────────────── ✦ ───────────────────────
 <div id="user-content-toc" align="left">
   <ul style="list-style: none;">
     <summary>
