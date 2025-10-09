@@ -22,7 +22,7 @@
  
 - 📍 Brazil, São Paulo - SP <br>
 - ⚡ Curious about web development and building cool websites <br>
-- ⚙️ Exploring software development and fun tech projects <br>
+- ⚙️ Exploring software development <br>
 - 🎮 Planning to start learning game development and create fun projects <br>
 - ⭐ Curiosity: I love making digital art! <br>
 
